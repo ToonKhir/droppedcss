@@ -1,3 +1,254 @@
-h3 {
-  font-family:Arial; 
+/* 
+
+Please Don't Reupload.
+
+                                   
+ _|    _|  _|        _|            
+ _|  _|    _|_|_|        _|  _|_|  
+ _|_|      _|    _|  _|  _|_|      
+ _|  _|    _|    _|  _|  _|        
+ _|    _|  _|    _|  _|  _|        
+                                   
+
+*/
+
+/* This Is A Them For The Website "gamebanana.com" Made By: Khir aka (Marshymallow) */
+/* Gamebanana: 1416940 */
+/* Steam: 76561198125963564 */
+
+/* Custom Cursor "cursor:url("http://www.javascriptkit.com/dhtmltutors/cursor-hand.gif"), auto;" */
+
+/* Re-Placement */
+
+/* Note: If You Try To Replace This With Not An "icon_sheet" And Just A Picture, It Will Break All The Icons. */
+.IconSheet {
+    background-image: url("http://i.imgur.com/WCCjdMI.png");
+}
+
+/* Placement */
+
+#HeaderWrapper.Fixed header {
+    width: 100%;
+}
+
+#MainContent {
+    width: auto;
+}
+
+#ColumnGrid {
+    width: auto;
+}
+
+#FeaturesSliderModule {
+    display: block;
+    margin: auto;
+    width: 100%;
+}
+
+#Wrapper {
+    width: 1100px;
+    margin: auto;
+    position: relative;
+    z-index: 2;
+    background: #111214;
+}
+
+.ContentColumn > .Module {
+    margin-bottom: 15px;
+    position: relative;
+}
+
+#AtfSquareBannerModule {
+    display: none;
+}
+
+#FeaturesSliderModule .SlidesShortcuts {
+    position: absolute;
+    top: -42px;
+    width: 100%;
+}
+
+#ChatModule .Content #ChatWindow #ChatContents {
+    height: 700px;
+}
+
+/* Remove */
+
+/* Removing Adds Not Because They're Annoying, But They Don't Look Good With This Theme. */
+
+#DasHeaderLink {
+    display: none;
+}
+
+#DasVerticalBannerModule .Content div {
+    display: none;
+}
+
+/* Colors */
+
+#AtfLeaderboardModule, #BtfLeaderboardModule, #AtfSquareBannerModule, #BtfSquareBannerModule {
+    text-align: center;
+    position: relative;
+    font-size: 0;
+    background: #330033;
+}
+
+body {
+    background: #1a001a;
+    color: rgba(255, 255, 255, 0.75);
+}
+
+.Module > .LogMessages {
+    background: #330033;
+}
+
+#AtfLeaderboard {
+    background: #660066;
+}
+
+.Module > .Description {
+    color: HotPink;
+    background: #660066;
+}
+
+a {
+    text-decoration: none;
+    color: #ff00f5;
+}
+
+.Module > .Content {
+    background: #330033;
+}
+
+.Module > h3 {
+    background: #660066;
+    color: HotPink;
+}
+
+#TitleBreadcrumb li:last-child a {
+    color: rgb(255, 204, 255);
+}
+
+#DropdownMenuSubNavigator li.TitleOnly {
+    color: rgb(255, 204, 255);
+}
+
+#DropdownMenuSubNavigator li a {
+    color: rgb(255, 204, 255);
+}
+
+#PageTitleWrapper h1 {
+    color: HotPink;
+}
+
+button, .ButtonLike {
+    color: rgb(255, 204, 255);
+}
+
+#ColumnGrid {
+    background: #1a001a;
+}
+
+#NavigatorTabs li {
+    box-shadow: 1px 1px 0 #330033;
+    background: #660066;
+}
+
+#BasicSubNavigator .ActiveEntry a {
+    background: #660066;
+}
+
+#BasicSubNavigator li a {
+    background: #330033;
+}
+
+/* Text Colors As Listed Here: http://www.w3schools.com/colors/colors_names.asp */
+
+.StateLabel.IsCreator {
+    color: FireBrick;
+}
+
+/* Cursors */
+
+#NavigatorTabs li {
+    cursor:url("http://img15.deviantart.net/1a64/i/2010/273/f/0/phantom_sword_cursor_by_blackdragonredroses-d2ztjcb.png"), auto;
+}
+
+#Wrapper {
+    cursor:url("http://img15.deviantart.net/1a64/i/2010/273/f/0/phantom_sword_cursor_by_blackdragonredroses-d2ztjcb.png"), auto;
+}
+
+#AtfLeaderboard {
+    cursor:url("http://img15.deviantart.net/1a64/i/2010/273/f/0/phantom_sword_cursor_by_blackdragonredroses-d2ztjcb.png"), auto;
+}
+
+.Module > .Description {
+    cursor:url("http://img15.deviantart.net/1a64/i/2010/273/f/0/phantom_sword_cursor_by_blackdragonredroses-d2ztjcb.png"), auto;
+}
+
+.Module > .Content {
+    cursor:url("http://img15.deviantart.net/1a64/i/2010/273/f/0/phantom_sword_cursor_by_blackdragonredroses-d2ztjcb.png"), auto;
+}
+
+.Module > h3 {
+    cursor:url("http://img15.deviantart.net/1a64/i/2010/273/f/0/phantom_sword_cursor_by_blackdragonredroses-d2ztjcb.png"), auto;
+}
+
+#SubFeedModule > .Content .GamesFilter ul li {
+    cursor:url("http://img15.deviantart.net/1a64/i/2010/273/f/0/phantom_sword_cursor_by_blackdragonredroses-d2ztjcb.png"), auto;
+}
+
+#SubFeedModule > .Content .SubFeed li .Submission {
+    cursor:url("http://img15.deviantart.net/1a64/i/2010/273/f/0/phantom_sword_cursor_by_blackdragonredroses-d2ztjcb.png"), auto;
+}
+
+.ContentColumn {
+    cursor:url("http://img15.deviantart.net/1a64/i/2010/273/f/0/phantom_sword_cursor_by_blackdragonredroses-d2ztjcb.png"), auto;
+}
+
+#ColumnGrid {
+    cursor:url("http://img15.deviantart.net/1a64/i/2010/273/f/0/phantom_sword_cursor_by_blackdragonredroses-d2ztjcb.png"), auto;
+}
+
+ol, ul, menu, li {
+    cursor:url("http://img15.deviantart.net/1a64/i/2010/273/f/0/phantom_sword_cursor_by_blackdragonredroses-d2ztjcb.png"), auto;
+}
+
+#MainContent {
+    cursor:url("http://img15.deviantart.net/1a64/i/2010/273/f/0/phantom_sword_cursor_by_blackdragonredroses-d2ztjcb.png"), auto;
+}
+
+.Module > .LogMessages {
+    cursor:url("http://img15.deviantart.net/1a64/i/2010/273/f/0/phantom_sword_cursor_by_blackdragonredroses-d2ztjcb.png"), auto;
+}
+
+button:hover, .ButtonLike:hover {
+    cursor:url("http://img15.deviantart.net/1a64/i/2010/273/f/0/phantom_sword_cursor_by_blackdragonredroses-d2ztjcb.png"), auto;
+}
+
+a {
+    cursor:url("http://img15.deviantart.net/1a64/i/2010/273/f/0/phantom_sword_cursor_by_blackdragonredroses-d2ztjcb.png"), auto;
+}
+
+body {
+    cursor:url("http://img15.deviantart.net/1a64/i/2010/273/f/0/phantom_sword_cursor_by_blackdragonredroses-d2ztjcb.png"), auto;
+}
+
+/* Scrollbar (Chrome) */
+
+::-webkit-scrollbar {
+	width: 10px!important;
+	height: 10px!important;
+    background-color: #1a001a!important;
+}
+::-webkit-scrollbar-thumb:vertical, ::-webkit-scrollbar-thumb:horizontal {
+	background-color: #383838!important;
+	border: 2px solid #484848!important;
+	border-radius: 5px!important;
+}
+::-webkit-scrollbar-thumb:hover {
+	background: #282828!important;
+}
+::-webkit-scrollbar-thumb:active {
+	background: #181818!important;
 }
