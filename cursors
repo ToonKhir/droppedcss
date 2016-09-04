@@ -1,0 +1,3 @@
+/* cursor: url(http://i.imgur.com/qFBPgth.png), auto; */
+
+body, a { cursor: url(http://i.imgur.com/qFBPgth.png), auto; }
